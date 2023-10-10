@@ -1,0 +1,21 @@
+{
+  "name": "@redwingfm/my-restaurant",
+  "version": "0.0.2",
+  "description": "Tasty Food Restaurant website based on YouTube tutorial by Bedimcode",
+  "main": "index.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "keywords": [
+    "restaurant",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Pavel Tereshchenkov <redwing.fm@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2"
+  }
+}
